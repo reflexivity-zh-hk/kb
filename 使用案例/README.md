@@ -10,7 +10,10 @@
 - [固定收益](按資產類別/固定收益/README.md) — 6 篇
 - [宏觀](按資產類別/宏觀/README.md) — 7 篇
 - [股票](按資產類別/股票/README.md) — 8 篇
+- [多資產](按資產類別/多資產/README.md) — 10 篇
 - [全部資產類別](按資產類別/README.md)
+
+目前經審閱的 asset-class rollout 共 34 篇，全部直接由英文 canonical 本地化。
 
 ---
 
