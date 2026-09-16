@@ -6,7 +6,7 @@
 
 ## 資產類別
 
-- [FX](FX/README.md) — 英文 canonical 的 3 篇頁面正在同步
+- [FX](FX/README.md) — 已同步英文 canonical 的 3 篇頁面
 
 其他經審閱的資產類別會按英文 canonical 分批同步。
 
