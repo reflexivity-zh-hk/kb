@@ -8,6 +8,7 @@
 
 - [FX](FX/README.md) — 已同步英文 canonical 的 3 篇頁面
 - [固定收益](固定收益/README.md) — 已同步英文 canonical 的 6 篇頁面
+- [宏觀](宏觀/README.md) — 已同步英文 canonical 的 7 篇頁面
 
 其他經審閱的資產類別會按英文 canonical 分批同步。
 
