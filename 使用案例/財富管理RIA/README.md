@@ -1,6 +1,6 @@
 # 財富管理 / RIA 使用案例
 
-以下案例是特定日期的平台輸出。使用前請先與最新市場數據核對，或作為說明性案例閱讀。
+以下案例是特定日期的平台輸出或經審閱的研究案例。用於目前市場前，請先與最新市場數據核對；否則只應作為說明性案例使用。
 
 ## Market Catalyst
 
@@ -14,8 +14,19 @@
 
 - [川普威脅與西班牙的貿易關係 (EWP)](trump-threatens-spain-trade-ties-ewp.md) — 2026-07-08 — 看空
 
+## 合作夥伴提供的研究案例
+
+以下連結指向按資產類別整理的正文。列表顯示提供者與提供日期，並依最新日期排序。
+
+- [在 FOMC 會議前建立加息情景](../按資產類別/宏觀/fomc-rate-hike-scenarios.md) — QUICK 提供 | 2026-09-15
+- [檢驗 iPhone 發布前後 AAPL 的股價模式](../按資產類別/股票/iphone-launch-and-aapl-price-pattern.md) — QUICK 提供 | 2026-09-11
+- [分析日圓急升的背景，以及升勢是否延伸至其他貨幣](../按資產類別/FX/yen-strength-background-outlook.md) — QUICK 提供 | 2026-09-09
+- [按潛在市場影響排列一周美國重要事件](../按資產類別/宏觀/weekly-us-market-events.md) — QUICK 提供 | 2026-09-08
+- [比較主要市場 10 年期政府債券孳息](../按資產類別/固定收益/global-10y-government-yields.md) — QUICK 提供 | 2026-09-01
+- [分析伊朗受襲情景的跨資產影響](../按資產類別/多資產/iran-attack-cross-asset-impact.md) — QUICK 提供 | 2026-03-02
+
 ---
 
 [← 全部使用案例](../README.md)
 
-如有一般問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **support@reflexivity.com**。

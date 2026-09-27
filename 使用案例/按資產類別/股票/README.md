@@ -36,7 +36,6 @@
 - [Xerox：異常大幅拋售 (XRX)](xerox-unusually-large-selloff-xrx.md) — 2026-07-08 — 看多
 - [DeepSeek 推理晶片 / AI 晶片壓力](deepseek-inference-chip-ai-chip-pressure.md) — 2026-07-08 — 看空
 
-
 ---
 
 [← 按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
