@@ -13,6 +13,9 @@
 - [圍繞美國零售股業績周建立研究流程](us-retail-earnings-calendar-workflow.md) — `RX-USECASE-0056`
 - [用 Company Catalyst 追蹤 NVIDIA 相關新聞的市場影響](company-catalyst-nvidia-example.md) — `RX-USECASE-0057`
 
+- [比較 Magnificent Seven 的財務狀況與利率韌性](magnificent-seven-financial-comparison.md)
+- [從上漲的美國股票尋找相關日本公司](rising-us-stocks-related-japanese-companies.md)
+
 ---
 
 [← 按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

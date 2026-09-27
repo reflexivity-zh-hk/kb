@@ -12,6 +12,8 @@
 - [用 Market Catalyst 快速篩選 Beige Book 重點](beige-book-market-catalyst-workflow.md) — `RX-USECASE-0049`
 - [為 Jackson Hole 講話建立情景及可能市場反應](jackson-hole-scenario-analysis.md) — `RX-USECASE-0060`
 
+- [觀察美中峰會前後 S&P 500 的走勢](us-china-summit-sp500-impact.md)
+
 ---
 
 [← 按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
