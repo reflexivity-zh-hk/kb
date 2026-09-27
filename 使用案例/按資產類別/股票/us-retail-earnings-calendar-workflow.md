@@ -3,7 +3,6 @@ id: RX-USECASE-0056
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-18
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 圍繞美國零售股業績周建立研究流程
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-18  
 **主要資產：** 股票  
-**適用使用者：** Wealth Management / RIA、Long-only Asset Manager、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** 財富管理 / RIA、Long-only Asset Manager、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。客戶資料及私人 URL 已移除，同時保留來源工作流程及解讀。事件時間與公司日程均為來源日期快照。
+> 本案例保留來源工作流程及解讀。事件時間與公司日程均為來源日期快照。
 
 ## 甚麼時候適合使用
 
@@ -112,5 +112,10 @@ QUICK 來源接着要求 Alfred 分析美國零售業績是否可以作為經濟
 這個例子把事件日曆連接到事件前準備、事件後 review、跨公司模式識別，再延伸至更廣泛的消費及市場情緒問題。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0049
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-03
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 用 Market Catalyst 快速篩選 Beige Book 重點
 
-**作者：** QUICK Inc.  
+[← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-03  
 **主要資產：** 宏觀、股票、固定收益  
-**適用使用者：** Wealth Management / RIA、Long-only Asset Manager、Hedge Fund Tier 1
+**適用使用者：** 財富管理 / RIA、Long-only Asset Manager、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。客戶名稱、收件人、電郵地址、簽名及私人 URL 已移除，同時盡量保留來源的工作流程及解說次序。
+> 本案例保留來源的工作流程及解說次序。
 
 來源以聯儲局 Beige Book 為例，展示如何利用 Market Catalyst 檢視重大新聞分析。
 
@@ -61,5 +61,10 @@ Market Catalyst 提供由事件 headline 進入分析的入口。流程先把 fe
 這是一個由廣泛資訊來源進入優先研究路徑的工作流程：先設定相關覆蓋範圍，辨識重要 catalyst，閱讀分析，再用它決定下一個研究問題。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

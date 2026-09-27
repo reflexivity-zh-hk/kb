@@ -3,7 +3,6 @@ id: RX-USECASE-0040
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-01
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 比較主要市場 10 年期政府債券孳息
 
-**作者：** QUICK Inc.  
+[← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-01  
 **主要資產：** 固定收益、宏觀  
-**適用使用者：** Long-only Asset Manager、Hedge Fund Tier 1、Wealth Management / RIA
+**適用使用者：** Long-only Asset Manager、對沖基金、財富管理 / RIA
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。客戶名稱、收件人、電郵地址、簽名及私有 URL 已移除，同時盡量保留原始問題、分析流程、證據及結論。數字及市場環境均為提供日期當時的快照。
+> 本案例保留原始問題、分析流程、證據及結論。數字及市場環境均為提供日期當時的快照。
 
 > 分析包括日本在內的主要國家，過去一年長期政府債券孳息如何變化。
 
@@ -50,7 +50,7 @@ publication_mode: faithful-source-preserving
 
 這個表刻意分開兩個不同問題。英國的絕對孳息最高，但日本的變化最大。兩者不是同一種訊號。
 
-## 原資料的國別解讀
+## 國別解讀
 
 確認六個市場都向上後，下一步是問：為甚麼升幅不同？
 
@@ -60,7 +60,7 @@ publication_mode: faithful-source-preserving
 - **法國及意大利：** 孳息跟隨德國向上，但相對德國 spread 被描述為大致穩定，並非大幅重新定價 peripheral risk。
 - **英國：** 在比較中仍是主要市場中孳息最高，原資料把 sticky inflation 列為重要原因。
 
-## 原資料結論
+## 結論
 
 原資料把美國、英國這些高孳息市場，與日本、德國、法國及意大利作比較；後者絕對水平仍較低，但一年內同樣明顯向上。
 
@@ -72,7 +72,7 @@ publication_mode: faithful-source-preserving
 
 下一步可加入各市場的政策利率前景、通脹、財政取態、主權發債及跨市場 spreads，判斷全球孳息共同上升是否可能持續，或研究機會已轉向不同國家之間的 relative-value 差異。
 
-## 限制及來源基礎
+## 限制
 
 - 分析使用 2025-09-01 至 2026-08-31 的每日主權債孳息 series。
 - 孳息以一致的 yield-to-maturity 基準呈現。
@@ -84,5 +84,10 @@ publication_mode: faithful-source-preserving
 這個工作流程把簡單的跨國孳息快照，轉化為比較研究：統一 maturity 及期間、區分水平與變化、辨識共同全球方向，再拆出解釋國別差異的政策及宏觀因素。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

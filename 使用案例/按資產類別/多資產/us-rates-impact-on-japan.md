@@ -3,7 +3,6 @@ id: RX-USECASE-0054
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-20
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 追蹤美國長期利率上升如何傳導到日本市場
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-20  
 **主要資產：** 固定收益、股票、FX、宏觀、多資產
 
 > 本頁保留 QUICK 提供的使用案例。市場水平及解讀均是來源日期快照。
 
-## 原始問題
+## 問題
 
 美國長期利率正在上升。這會如何影響日本貨幣政策及日本經濟？對銀行、房地產及出口商等主題有甚麼含義？
 
@@ -95,5 +95,10 @@ publication_mode: faithful-source-preserving
 這是一套可重複跨資產流程，用來追蹤海外利率衝擊如何經過息差、匯率、貨幣政策反應，再傳到本地板塊表現。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

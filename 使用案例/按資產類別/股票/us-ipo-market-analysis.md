@@ -3,7 +3,6 @@ id: RX-USECASE-0048
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-10
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 從已完成交易與未來 pipeline 分析美國 IPO 市場
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-10  
 **主要資產：** 股票、宏觀  
-**適用使用者：** Long-only Asset Manager、Hedge Fund Tier 1、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** Long-only Asset Manager、對沖基金
 
 > 本頁保留 QUICK 在 2026 年 9 月 10 日的研究快照。交易規模、上市後回報及未來 IPO 候選均屬來源日期觀察或報道預期，**不是當前確認資訊**。
 
@@ -110,4 +110,9 @@ publication_mode: faithful-source-preserving
 
 ---
 
-[← 股票使用案例](README.md) · [宏觀使用案例](../宏觀/README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
+
+[← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0060
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-21
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 為 Jackson Hole 講話建立情景及可能市場反應
 
-**作者：** QUICK Inc.  
+[← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-21  
 **主要資產：** 宏觀、固定收益、股票、FX  
-**適用使用者：** Wealth Management / RIA、Long-only Asset Manager、Hedge Fund Tier 1
+**適用使用者：** 財富管理 / RIA、Long-only Asset Manager、對沖基金
 
 > 本頁保留的是 **2026 年 8 月 27–29 日 Jackson Hole symposium 舉行前**提供的情景分析。應把它視為事件前準備案例，而不是當前預測，也不是事後按結果重建的分析。
 
@@ -124,5 +124,10 @@ publication_mode: faithful-source-preserving
 這個例子展示如何準備政策事件而不把工作簡化成「猜講話內容」：先確認事件為何重要、定義替代情景、衡量已被市場反映的內容、校準反應幅度，再把結果連接到下一次政策決定。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

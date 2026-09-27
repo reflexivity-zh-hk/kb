@@ -3,7 +3,6 @@ id: RX-USECASE-0052
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-05
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 分析 hyperscaler 的表外承擔
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-05  
 **主要資產：** 股票、固定收益、多資產
 
 > 原始材料只提供私人 Research 連結。本公開頁面**不會重建或猜測不可存取的研究結果**；它只保留原始問題，以及該問題本身所要求的研究框架。
 
-## 原始問題
+## 問題
 
 總結美國 hyperscaler 的 off-balance-sheet debt。
 
@@ -87,5 +87,10 @@ publication_mode: faithful-source-preserving
 私人 Research 結果沒有在此重製。本頁的公開價值，是先把不同 contractual obligation 分開，再連到股票與信貸風險的分析結構。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

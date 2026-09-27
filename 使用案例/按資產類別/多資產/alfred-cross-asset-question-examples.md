@@ -3,7 +3,6 @@ id: RX-USECASE-0058
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-02-12
 status: published
@@ -15,7 +14,8 @@ publication_mode: faithful-source-preserving
 
 # 用 Alfred 研究房屋、貴金屬、股票及信貸風險
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-02-12  
 **主要資產：** 股票、固定收益、商品、crypto、宏觀、多資產
 
@@ -71,5 +71,10 @@ publication_mode: faithful-source-preserving
 共同模式是從具體問題出發，先找出傳導機制，再決定下一個要測試的市場或 entity。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

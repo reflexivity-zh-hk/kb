@@ -3,7 +3,6 @@ id: RX-USECASE-0045
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-09-14
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 比較不同 regime 的油價急升，並追蹤行業影響
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-14  
 **主要資產：** 商品、股票、宏觀、多資產
 
 > 本頁保留 QUICK 提供的使用案例。市場水平及解讀均是來源日期快照，不是當前市場預測。
 
-## 原始問題
+## 問題
 
 3 月美國—伊朗衝突後油價上升的驅動因素，與 8 月以來的上升有何不同？較高油價影響了哪些行業及主要公司？
 
@@ -99,5 +99,10 @@ publication_mode: faithful-source-preserving
 這是一個跨資產框架：先按原因區分表面相似的商品升勢，再追蹤不同原因如何改變板塊及公司敏感度。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

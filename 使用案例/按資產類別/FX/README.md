@@ -4,9 +4,9 @@
 
 ## 使用案例
 
-- [將 EUR/USD 投資觀點轉化為系統化檢查清單](eurusd-systematic-investment-checklist.md) — `RX-USECASE-0032`
-- [用多組參數及樣本外測試檢驗 EUR/USD RSI 策略](eurusd-rsi-walk-forward-backtest.md) — `RX-USECASE-0037`
-- [分析日圓急升的背景，以及升勢是否延伸至其他貨幣](yen-strength-background-outlook.md) — `RX-USECASE-0044`
+- [將 EUR/USD 投資觀點轉化為系統化檢查清單](eurusd-systematic-investment-checklist.md)
+- [用多組參數及樣本外測試檢驗 EUR/USD RSI 策略](eurusd-rsi-walk-forward-backtest.md)
+- [分析日圓急升的背景，以及升勢是否延伸至其他貨幣](yen-strength-background-outlook.md)
 
 ---
 

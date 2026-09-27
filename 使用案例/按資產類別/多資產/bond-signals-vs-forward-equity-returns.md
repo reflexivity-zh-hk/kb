@@ -14,6 +14,8 @@ publication_mode: faithful-source-preserving
 
 # 測試債券市場指標與未來股票回報是否有關
 
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要資產：** 固定收益、股票、跨資產  
 **適用使用者：** Multi-Asset PM、Quant、Asset Allocator  
@@ -39,7 +41,7 @@ publication_mode: faithful-source-preserving
 
 這樣可以同時看到當前讀數在歷史上所處的位置，以及相近 spread 水平下後續股票結果的分散程度。
 
-## 原研究結果
+## 研究結果
 
 - 最新 spread：截至 2026-09-01 為 **+7.72**
 - 五年內，spread 與未來 20 個交易日 S&P 500 回報的 correlation：**-0.22**

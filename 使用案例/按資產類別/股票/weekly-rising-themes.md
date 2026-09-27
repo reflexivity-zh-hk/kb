@@ -3,7 +3,6 @@ id: RX-USECASE-0043
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-03
 status: published
@@ -16,14 +15,15 @@ publication_mode: faithful-source-preserving
 
 # 找出上周最強股票主題的共同驅動因素
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-03  
 **主要資產：** 股票  
-**適用使用者：** Long-only Asset Manager、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** Long-only Asset Manager、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。客戶名稱、收件人、電郵地址、簽名及私人 URL 已移除，同時保留原始問題、證據及分析流程。所有數值與市場狀況均為來源日期快照。
+> 本案例保留原始問題、證據及分析流程。所有數值與市場狀況均為來源日期快照。
 
-## 原始問題
+## 問題
 
 過去一星期上升的股票主題，有沒有共同特徵？
 
@@ -90,5 +90,10 @@ AI、software automation 及 developer-platform 股票出現在多個 basket，�
 這個例子由「甚麼升了？」進一步問「為甚麼這些組別一起升？」並把短期動能、成分重疊、factor 特性及較長歷史表現放在同一分析中。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0051
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-05
 status: published
@@ -16,14 +15,15 @@ publication_mode: faithful-source-preserving
 
 # 比較 S&P 500 與 Russell 2000，並找出小型股領先者
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-05  
 **主要資產：** 股票  
-**適用使用者：** Long-only Asset Manager、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** Long-only Asset Manager、對沖基金
 
 > QUICK 原始材料只提供研究問題及一個私人 Research 結果連結。該結果並非公開可存取。以下內容是**對原問題研究邏輯的公開編輯說明，不是對不可存取 Research 輸出的重建或猜測**。
 
-## 原始問題
+## 問題
 
 比較並分析 2026 年 1 月至當時 S&P 500 與 Russell 2000 的表現，再找出 Russell 2000 中表現最好的五隻成分股，並解釋其股價上升原因。
 
@@ -77,5 +77,10 @@ publication_mode: faithful-source-preserving
 由於原始私人 Research 結果沒有在此重建，本頁只展示來源問題支持的可重複分析次序：**benchmark 比較 → 領先股抽取 → catalyst 分析 → 廣度解讀。**
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

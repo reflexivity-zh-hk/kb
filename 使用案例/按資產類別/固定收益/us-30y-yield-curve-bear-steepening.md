@@ -3,7 +3,6 @@ id: RX-USECASE-0053
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-19
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 從整條孳息曲線解讀美國 30 年期孳息上升
 
-**作者：** QUICK Inc.  
+[← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-19  
 **主要資產：** 固定收益、宏觀  
-**適用使用者：** Long-only Asset Manager、Hedge Fund Tier 1
+**適用使用者：** Long-only Asset Manager、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。客戶名稱、收件人、電郵地址、簽名及私有 URL 已移除，同時盡量保留原始問題、分析流程、證據及結論。數字及市場環境均為提供日期當時的快照。
+> 本案例保留原始問題、分析流程、證據及結論。數字及市場環境均為提供日期當時的快照。
 
 > 美國 30 年期 Treasury 孳息正在上升。整體孳息曲線如何變化？
 
@@ -103,7 +103,7 @@ publication_mode: faithful-source-preserving
 
 當政策利率大致穩定，但長端孳息持續上升，下一步可檢查財政政策、Treasury supply、通脹預期及 term premium。
 
-## 限制及來源基礎
+## 限制
 
 - Treasury yields 為 constant-maturity annualized yields；spread 使用一致的孳息差。
 - 變化按 daily close 計算，不包括 intraday move。
@@ -115,5 +115,10 @@ publication_mode: faithful-source-preserving
 這個使用案例展示如何把單一 maturity 的 headline move 擴展為整條曲線分析、分清不同 measurement windows，並用歷史政策 regime 判斷何時應更重視財政、供應或 term-premium 因素。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # 檢驗美國 2s10s 孳息曲線是否曾經預示衰退
 
+[← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要資產：** 固定收益（美國利率）、宏觀  
 **適用使用者：** Fixed Income PM、Macro Strategist、Asset Allocator  
@@ -33,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 > **數據質素注意：** 來源中部分數值的建構方式及定義需要再核對。尤其是「自 1976 年以來曲線有 **83.5% 的時間處於倒掛**」這項說法相當不尋常，需要重新驗證。本頁忠實記錄原始研究輸出，但**不把這個數字當成已驗證的一般歷史事實**。
 
-## 原資料不同 lead window 的結果
+## 不同 lead window 的結果
 
 | Metric | 9 個月 | 10 個月 | 11 個月 | 12 個月 |
 |---|---:|---:|---:|---:|
@@ -44,7 +46,7 @@ publication_mode: faithful-source-preserving
 
 原資料特別指出 10 個月窗口：precision 為 **6.6%**，false-positive rate 為 **86.7%**。按來源的定義，如果把「曲線倒掛」直接當成可執行的衰退訊號，會產生大量 false alarms。
 
-## 原資料逐次衰退覆核
+## 逐次衰退覆核
 
 | 衰退 | 期間 | 9–12 個月前有倒掛？ | 原資料平均 spread |
 |---|---|---|---:|
@@ -55,14 +57,14 @@ publication_mode: faithful-source-preserving
 | 2008-01 至 2009-07 | 18 個月 | 是 | 0.03% |
 | 2020-03 至 2020-05 | 2 個月 | 是 | -0.21% |
 
-## 原資料主要觀察
+## 主要觀察
 
 1. **來源報告的 precision 很低**，代表在這套測試設定下，衰退警號遠多於實際衰退。
 2. 原資料把六次衰退中的四次列為有捕捉到，同時漏掉 1980 及 2001 年 episode。
 3. 原資料指出 QE、全球 Treasury demand 及市場結構轉變，都可能令不同 regime 下的關係改變。
 4. 原資料建議把 2s10s 與其他曲線定義，以及失業率、credit spreads、leading indicators 一同比較，而不是單獨依賴一個 spread。
 
-## 原資料建議的額外測試
+## 額外測試
 
 - 與失業率變化、credit spreads 及 leading economic indicators 比較預測表現；
 - 測試 3m10y、1y10y 等其他曲線定義；

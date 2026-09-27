@@ -3,7 +3,6 @@ id: RX-USECASE-0041
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-15
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 在 FOMC 會議前建立加息情景
 
-**作者：** QUICK Inc.  
+[← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-15  
 **主要資產：** 宏觀、固定收益、FX、多資產  
-**適用使用者：** Long-only Asset Manager、Hedge Fund Tier 1、Wealth Management / RIA
+**適用使用者：** Long-only Asset Manager、對沖基金、財富管理 / RIA
 
 > 本頁保留的是 **2026 年 9 月 15–16 日 FOMC 會議前**的有日期情景分析，而不是當前預測。來源中的概率及宏觀讀數均是當時的快照。
 
@@ -82,5 +82,10 @@ publication_mode: faithful-source-preserving
 這個例子展示如何圍繞宏觀限制、已被市場定價的內容、替代政策路徑及可驗證各路徑的溝通訊號，建立事件風險框架。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

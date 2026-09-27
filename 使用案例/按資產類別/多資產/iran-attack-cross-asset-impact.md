@@ -3,7 +3,6 @@ id: RX-USECASE-0059
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-03-02
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 分析伊朗受襲情景的跨資產影響
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-03-02  
 **主要資產：** 商品、股票、FX、固定收益、宏觀、多資產
 
 > 本頁保留 QUICK 於 **2026-03-02** 提供的一項有日期、具條件的情景分析。它**不是當前地緣政治預測，也不是投資建議**。案例價值在於研究結構：先建立起點、分開短中期傳導、以歷史壓力事件校準，再找出會改變情景的變數。
 
-## 原始問題
+## 問題
 
 如果美國與以色列攻擊伊朗，短期及中期對油價、黃金、股票及美元可能有甚麼影響？
 
@@ -106,5 +106,10 @@ publication_mode: faithful-source-preserving
 這是一個把地緣政治衝擊轉成跨資產研究流程的 scenario template，同時把起點、時間 horizon、傳導機制、歷史校準及使情景失效的條件保持清楚。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

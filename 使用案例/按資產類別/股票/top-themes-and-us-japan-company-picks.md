@@ -3,7 +3,6 @@ id: RX-USECASE-0047
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2025-12-26
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 把強勢主題轉成美日公司研究候選名單
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2025-12-26  
 **主要資產：** 股票  
-**適用使用者：** Long-only Asset Manager、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** Long-only Asset Manager、對沖基金
 
 > 本頁根據 QUICK Inc. 提供的使用案例整理，保留來源問題、候選名單及篩選邏輯。**以下名單只是建立 research universe 的起點，不是推薦或買入名單。**
 
@@ -129,5 +129,10 @@ Theme leaderboard 可以告訴投資者哪些領域表現強，但不會直接�
 這套流程由市場領先主題建立跨市場 research universe，適合在加入可投資性、基本面及 valuation 篩選前，先發掘較不明顯的公司候選。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

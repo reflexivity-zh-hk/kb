@@ -3,7 +3,6 @@ id: RX-USECASE-0050
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-24
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 測試 Robinhood 與 Bitcoin 的價格關係
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-24  
 **主要資產：** 股票、crypto、多資產
 
 > 本頁保留 QUICK 提供的使用案例。數字及市場觀察均屬來源日期快照。
 
-## 原始問題
+## 問題
 
 分析 `@HOOD` 與 Bitcoin 價格的 correlation。用 `@` 加 ticker 可在公司名稱相似時提高 entity resolution 準確度。
 
@@ -92,5 +92,10 @@ QUICK 來源描述期內存在較強正向關係，估算 price-level correlatio
 這套流程由表面跨資產共振走到 return-based correlation，再主動找出破壞關係的時期。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

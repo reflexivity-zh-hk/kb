@@ -3,7 +3,6 @@ id: RX-USECASE-0042
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-08
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 按潛在市場影響排列一周美國重要事件
 
-**作者：** QUICK Inc.  
+[← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-08  
 **主要資產：** 宏觀、股票、固定收益、FX  
-**適用使用者：** Wealth Management / RIA、Long-only Asset Manager、Hedge Fund Tier 2
+**適用使用者：** 財富管理 / RIA、Long-only Asset Manager、對沖基金
 
 > 本頁根據 QUICK Inc. 提供的使用案例整理。數值、共識預測及事件時間均是**來源日期的歷史快照**。案例的價值在於「如何排優先次序」的流程，而不是把這張舊日曆當成當前日程。
 
@@ -90,5 +90,10 @@ publication_mode: faithful-source-preserving
 這個例子把每周宏觀日曆變成有層次的監察計劃：先看最可能改變政策預期的事件，再看確認或反駁數據，最後處理市場特定的供應及板塊輸入。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

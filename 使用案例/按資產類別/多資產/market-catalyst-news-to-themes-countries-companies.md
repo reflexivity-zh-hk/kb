@@ -3,7 +3,6 @@ id: RX-USECASE-0055
 type: use-case
 language: zh
 locale: zh-HK
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-17
 status: published
@@ -15,11 +14,12 @@ publication_mode: faithful-source-preserving
 
 # 用 Market Catalyst 把新聞連到主題、國家及公司
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-17  
 **主要資產：** 股票、宏觀、多資產
 
-> 本頁保留 QUICK 提供的使用案例，並移除客戶、收件人、簽名及私人連結資料。
+> 本案例並移除客戶、收件人、簽名及私人連結資料。
 
 ## 甚麼時候適合使用
 
@@ -80,5 +80,10 @@ QUICK 材料包括：
 這套流程展示如何由已篩選的市場事件走到可能傳導路徑，再把路徑轉化成具體 follow-up research target。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
