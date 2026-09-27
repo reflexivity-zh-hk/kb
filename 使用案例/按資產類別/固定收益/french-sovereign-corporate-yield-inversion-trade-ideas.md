@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原始研究及當時有日期的市場觀察。以下交易構想及水平都是歷史研究輸出，不是現時建議。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+
 ## 起點
 
 原始研究由一個不尋常的關係開始：法國政府債券孳息與高質素法國企業債孳息之間出現錯位，同時政治風險偏高。研究問題不只是這個錯位是否有意義，而是**如果這個觀點成立，可以如何透過不同市場表達？**

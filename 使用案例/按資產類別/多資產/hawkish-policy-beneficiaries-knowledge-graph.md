@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留實際 Reflexivity 研究的結構及限制。Graph 上的連結並不代表直接盈利敏感度；重點是展示如何把宏觀觀點轉成可進一步研究的資產、行業及公司 universe。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究問題
 
 研究沒有停在「偏鷹政策＝較高利率」，而是把觀點拆成三層：

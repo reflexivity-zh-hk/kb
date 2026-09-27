@@ -22,6 +22,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原始研究，並納入經審閱版本已確認的解釋橋樑。數字及市場狀況均為原始研究的歷史快照，不是現時投資建議。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
 ## 研究目標
 
 RSI 策略如果在看過歷史數據後才挑選 lookback period 或 threshold，很容易出現漂亮但過度配合樣本的結果。單一「最佳參數」因此不能證明策略具有可重複的 edge。

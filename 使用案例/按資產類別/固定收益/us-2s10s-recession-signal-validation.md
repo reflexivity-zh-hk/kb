@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留一份有日期的 Reflexivity 研究輸出及其限制。來源中至少有一項統計看來需要重新驗證，因此以下結果不應被視為已獨立確認的歷史事實。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究問題
 
 **美國 2 年期／10 年期 Treasury spread 倒掛，歷史上是否能預示九至十二個月後出現衰退？**

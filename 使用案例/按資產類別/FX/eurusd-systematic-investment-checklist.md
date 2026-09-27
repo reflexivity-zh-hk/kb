@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留原始研究的推理結構及有日期的市場觀察，並納入經審閱版本已確認的解釋橋樑。數字及市場狀況均為原始研究當時的歷史快照，不是現時投資建議。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究目標
 
 原始研究並非單純要求 Reflexivity「研究 EUR/USD」，而是把 PM 每次覆核投資觀點時會問的問題，整理成可重複更新的檢查清單。原始研究最後更新於 **2025-08-28**。

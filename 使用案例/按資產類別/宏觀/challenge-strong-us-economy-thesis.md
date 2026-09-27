@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原研究及其有日期的觀察。這是一個如何測試投資論點的案例，並非當前宏觀預測。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+
 ## 起點問題
 
 研究並非為「美國經濟強勁」這個主流論點蒐集支持證據，而是問：**這個論點在哪些地方開始出現裂縫？**
