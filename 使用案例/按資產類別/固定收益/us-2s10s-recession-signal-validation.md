@@ -76,6 +76,8 @@ publication_mode: faithful-source-preserving
 
 這個例子同時展示自動假設檢驗的價值與限制：Reflexivity 可以建立歷史測試、揭示 false positives；但當數字異常時，分析師仍需要追問數據定義及重新驗證，才可把輸出當成較可靠證據。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

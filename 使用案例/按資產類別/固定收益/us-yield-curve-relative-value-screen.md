@@ -70,6 +70,8 @@ publication_mode: faithful-source-preserving
 
 這份修正本身很有價值，因為它展示當顯示邏輯與經濟含義不一致時，研究流程如何修正自己。可重複使用的模式是：歷史位置 → carry／rolldown → 綜合交易分類 → 若組成因素不支持 headline signal，則修正分類。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

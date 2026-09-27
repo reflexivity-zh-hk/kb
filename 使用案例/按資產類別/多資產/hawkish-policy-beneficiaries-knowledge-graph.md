@@ -83,6 +83,8 @@ Graph 或 Sankey 的 link width **不是**現金流、盈利敏感度或預期�
 
 這套流程展示如何把宏觀政策觀點拆成傳導渠道、行業及具名公司，再把候選交給更深入的基本面研究。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

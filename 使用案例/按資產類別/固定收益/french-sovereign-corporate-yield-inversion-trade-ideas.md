@@ -93,6 +93,8 @@ publication_mode: faithful-source-preserving
 
 這個例子展示如何由一個主權／信貸異常，發展成涵蓋 rates、credit、FX、equities、volatility 及 basis markets 的多種研究表達方式，同時保留明確失效條件，而不是停留在市場敘事層面。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 固定收益使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

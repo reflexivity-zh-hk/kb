@@ -131,6 +131,8 @@ publication_mode: faithful-source-preserving
 
 這是一個可重複使用的研究流程：由問題、數據層、支持及反證、明確假設、情境框架，一直到會令觀點改變的條件，而不只是保留最終方向判斷。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← FX 使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

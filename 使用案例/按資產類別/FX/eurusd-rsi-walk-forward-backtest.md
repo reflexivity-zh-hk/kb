@@ -92,6 +92,8 @@ Calibration 最佳設定本身並非最重要；更重要的是結果能否跨�
 
 這個例子保留了可重複的研究過程：問題、測試設計、參數 sweep、樣本外挑戰、限制，以及對失效部分的解讀。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
+
 ---
 
 [← FX 使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
