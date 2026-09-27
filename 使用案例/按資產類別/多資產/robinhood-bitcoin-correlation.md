@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 分析 `@HOOD` 與 Bitcoin 價格的 correlation。用 `@` 加 ticker 可在公司名稱相似時提高 entity resolution 準確度。
 
+![Robinhood 與 Bitcoin 的價格關係](../../../圖片/使用案例/quick/RX-USECASE-0050/source-visuals.webp)
+
 ## 研究要建立甚麼
 
 兩張價格圖都大致向上，不代表每天都緊密同步。價格**水平**的高 correlation 亦可能只是因為兩個資產共享長期趨勢。
@@ -80,19 +82,17 @@ QUICK 來源描述期內存在較強正向關係，估算 price-level correlatio
 - business mix 變化；
 - 利率及 broader risk appetite。
 
-## 限制與圖片狀態
+## 限制
 
 - 來源 correlation 估算為近似值；
 - correlation 依賴 sample 及 horizon；
 - 共同宏觀驅動因素可以提高 correlation，而不代表直接因果；
-- 日文審閱頁面有已驗證原圖，但 binary 尚未同步至下游 repository，因此本頁不加入圖片連結。
 
 ## 本使用案例說明了甚麼
 
 這套流程由表面跨資產共振走到 return-based correlation，再主動找出破壞關係的時期。
 
 ---
-
 
 本內容由 QUICK 提供。
 

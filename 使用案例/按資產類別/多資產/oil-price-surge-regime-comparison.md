@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 3 月美國—伊朗衝突後油價上升的驅動因素，與 8 月以來的上升有何不同？較高油價影響了哪些行業及主要公司？
 
+![油價環境與受影響行業比較](../../../圖片/使用案例/quick/RX-USECASE-0045/source-visuals.webp)
+
 ## 研究要建立甚麼
 
 兩段油價升勢在圖上可以很相似，但經濟含義完全不同。
@@ -88,18 +90,16 @@ publication_mode: faithful-source-preserving
 - refining margin 及燃料成本；
 - 地緣政治 risk premium 是擴大還是消退。
 
-## 限制與圖片狀態
+## 限制
 
 - Regime 回報使用代表日期，同時包含公司業績、利率及其他公司特定新聞；
 - Qualitative regime label 反映 QUICK 來源當時的分析；
-- 經審閱的日文頁面有已驗證原圖，但 binary 尚未同步至下游 repository，因此本頁不加入失效或替代圖片。
 
 ## 本使用案例說明了甚麼
 
 這是一個跨資產框架：先按原因區分表面相似的商品升勢，再追蹤不同原因如何改變板塊及公司敏感度。
 
 ---
-
 
 本內容由 QUICK 提供。
 

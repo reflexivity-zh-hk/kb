@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 來源問題可概括為：考慮通脹、油價上升及更廣泛宏觀背景，主席 Kevin Warsh 在本周 FOMC 對可能加息會如何表述？
 
+![FOMC 加息情景分析](../../../圖片/使用案例/quick/RX-USECASE-0041/source-visuals.webp)
+
 ## 研究目標
 
 在 FOMC 前，若只聚焦**加息還是維持不變**，很容易忽略真正影響市場反應的另一半：主席如何解釋之後的政策反應函數。若某結果已被市場高度定價，即使真的發生，市場反應也可能有限。
@@ -82,7 +84,6 @@ publication_mode: faithful-source-preserving
 這個例子展示如何圍繞宏觀限制、已被市場定價的內容、替代政策路徑及可驗證各路徑的溝通訊號，建立事件風險框架。
 
 ---
-
 
 本內容由 QUICK 提供。
 

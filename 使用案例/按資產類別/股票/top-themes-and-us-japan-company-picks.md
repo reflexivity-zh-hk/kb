@@ -23,6 +23,8 @@ publication_mode: faithful-source-preserving
 
 > 本頁根據 QUICK Inc. 提供的使用案例整理，保留來源問題、候選名單及篩選邏輯。**以下名單只是建立 research universe 的起點，不是推薦或買入名單。**
 
+![所選主題與相關美國、日本公司](../../../圖片/使用案例/quick/RX-USECASE-0047/source-visuals.webp)
+
 ## 甚麼時候適合使用
 
 Theme leaderboard 可以告訴投資者哪些領域表現強，但不會直接告訴你哪些公司值得研究。
@@ -120,16 +122,11 @@ Theme leaderboard 可以告訴投資者哪些領域表現強，但不會直接�
 
 這可以防止把一個強勢主題直接轉成「buy list」。主題先擴大搜尋空間，投資限制及基本面再收窄候選。
 
-## 來源圖片狀態
-
-經審閱的日文公開頁面有一張已驗證 QUICK 原始 screen。圖片尚未 byte-synchronize 至下游 repository，因此本頁不發布失效或替代圖片。
-
 ## 本使用案例說明了甚麼
 
 這套流程由市場領先主題建立跨市場 research universe，適合在加入可投資性、基本面及 valuation 篩選前，先發掘較不明顯的公司候選。
 
 ---
-
 
 本內容由 QUICK 提供。
 

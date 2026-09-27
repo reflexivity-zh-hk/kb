@@ -52,6 +52,8 @@ publication_mode: faithful-source-preserving
 
 先建立起點的原因很簡單：同一衝擊落在已經大幅延伸的資產，與落在仍相對低迷的資產，新增影響可以完全不同。
 
+![主要資產的一年期標準化路徑](../../../圖片/使用案例/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+
 ## 來源的短／中期情景範圍
 
 | 資產 | 來源起點 | 1–7 日情景 | 1–6 個月情景 |
@@ -62,6 +64,8 @@ publication_mode: faithful-source-preserving
 | DXY | 97.74 | +2% 至 +5% | +1% 至 +4% |
 
 以上是來源材料中的**情景輸出範圍，不是已實現結果，也不是概率預測。**
+
+![短期與中期情景範圍](../../../圖片/使用案例/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ## 為甚麼要分開短期與中期
 
@@ -85,6 +89,8 @@ publication_mode: faithful-source-preserving
 
 來源與早前中東壓力事件比較，只是為了檢查假設範圍在**數量級**上是否合理，而不是主張今次必然複製歷史模式。
 
+![跨資產風險回報圖](../../../圖片/使用案例/quick/RX-USECASE-0059/03-risk-return-map.webp)
+
 ## 如何使用結果
 
 重點不是選一個情景範圍當成預測，而是持續更新可能令情景改變的變數，尤其：
@@ -97,16 +103,11 @@ publication_mode: faithful-source-preserving
 
 條件改變時，應重新校準情景，而不是為原來範圍辯護。
 
-## 圖片狀態
-
-經審閱的日文來源有三張已驗證圖：一年 normalized asset path、短／中期情景範圍及 risk/return map。Binary 尚未同步至下游 repository，因此本頁不加入圖片連結。
-
 ## 本使用案例說明了甚麼
 
 這是一個把地緣政治衝擊轉成跨資產研究流程的 scenario template，同時把起點、時間 horizon、傳導機制、歷史校準及使情景失效的條件保持清楚。
 
 ---
-
 
 本內容由 QUICK 提供。
 

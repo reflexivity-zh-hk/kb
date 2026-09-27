@@ -62,6 +62,10 @@ publication_mode: faithful-source-preserving
 
 原資料以 **2026-08-17** 為參考日，使用 FRED daily constant-maturity Treasury yields。非交易日用上一個交易日數值填補；三個月比較使用約 91 日前最接近的交易日。
 
+![美國國債各年期孳息變化](../../../圖片/使用案例/quick/RX-USECASE-0053/01-maturity-yield-changes.webp)
+
+![目前與三個月前的美國國債孳息曲線](../../../圖片/使用案例/quick/RX-USECASE-0053/02-yield-curve-current-vs-3m.webp)
+
 ## 為甚麼之後要與過往政策 regime 比較
 
 確認目前是長端帶動後，下一個問題是：這是否屬於典型加息或減息周期的曲線形態？如果不是，就應把焦點由政策利率擴展到財政、供應、通脹及 term premium。
@@ -86,6 +90,8 @@ publication_mode: faithful-source-preserving
 | 2015–18 | Hikes | 0.24% → 2.27% | -103 bp | +11 bp | Bear flattening |
 | 2007–08 | Cuts | 4.94% → 0.16% | +110 bp | -214 bp | Bull steepening |
 | 2004–06 | Hikes | 1.03% → 4.99% | -212 bp | -29 bp | Bull flattening |
+
+![歷史政策階段的 2s10s 利差與 Fed Funds](../../../圖片/使用案例/quick/RX-USECASE-0053/03-2s10s-fed-funds-history.webp)
 
 ## 為甚麼 bear steepening 與 bear flattening 可以同時出現
 
@@ -115,7 +121,6 @@ publication_mode: faithful-source-preserving
 這個使用案例展示如何把單一 maturity 的 headline move 擴展為整條曲線分析、分清不同 measurement windows，並用歷史政策 regime 判斷何時應更重視財政、供應或 term-premium 因素。
 
 ---
-
 
 本內容由 QUICK 提供。
 

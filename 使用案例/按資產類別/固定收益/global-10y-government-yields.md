@@ -50,6 +50,8 @@ publication_mode: faithful-source-preserving
 
 這個表刻意分開兩個不同問題。英國的絕對孳息最高，但日本的變化最大。兩者不是同一種訊號。
 
+![主要市場 10 年期政府債券孳息比較](../../../圖片/使用案例/quick/RX-USECASE-0040/source-visuals.webp)
+
 ## 國別解讀
 
 確認六個市場都向上後，下一步是問：為甚麼升幅不同？
@@ -84,7 +86,6 @@ publication_mode: faithful-source-preserving
 這個工作流程把簡單的跨國孳息快照，轉化為比較研究：統一 maturity 及期間、區分水平與變化、辨識共同全球方向，再拆出解釋國別差異的政策及宏觀因素。
 
 ---
-
 
 本內容由 QUICK 提供。
 

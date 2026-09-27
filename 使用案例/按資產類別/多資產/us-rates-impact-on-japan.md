@@ -48,6 +48,10 @@ publication_mode: faithful-source-preserving
 
 來源把美國孳息率上升、息差擴闊及日圓偏弱的組合，解讀為可加強 BOJ 正常化及日本孳息率上升的外部壓力。
 
+![美國與日本長期孳息](../../../圖片/使用案例/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+
+![USD/JPY 與 Nikkei 225](../../../圖片/使用案例/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+
 ## 為何先看 FX 才看板塊
 
 孳息差重要的一部分，是它對日圓的影響。
@@ -63,6 +67,8 @@ publication_mode: faithful-source-preserving
 1. **日圓偏弱與 BOJ 政策** — 息差擴闊及日圓轉弱可以增加進口價格壓力，加強進一步正常化的理據；
 2. **日本長期孳息率上升** — 全球 duration 壓力與日本本土正常化可以互相加強；
 3. **雙向經濟影響** — 出口及 inbound-sensitive 業務可能受惠於弱日圓，但家庭及內需面對較高進口成本。
+
+![銀行、地產與汽車主題表現](../../../圖片/使用案例/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ## 來源快照中的板塊含義
 
@@ -84,18 +90,16 @@ publication_mode: faithful-source-preserving
 - BOJ 反應及日本國內孳息率；
 - 各板塊特定敏感度。
 
-## 限制與圖片狀態
+## 限制
 
 - 來源主題回報使用 Reflexivity equal-weight basket，不是個股回報；
 - 宏觀解讀是按當時可見關係建立的 scenario，不是確定性結論；
-- 日文審閱頁面有三張已驗證原圖，但 binary 尚未同步至下游 repository，因此本頁不加入圖片連結。
 
 ## 本使用案例說明了甚麼
 
 這是一套可重複跨資產流程，用來追蹤海外利率衝擊如何經過息差、匯率、貨幣政策反應，再傳到本地板塊表現。
 
 ---
-
 
 本內容由 QUICK 提供。
 

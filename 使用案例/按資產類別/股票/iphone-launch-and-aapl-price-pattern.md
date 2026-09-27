@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 原始問題：分析過去五年新 iPhone 發布與 AAPL 股價之間的關係，並分析最新 Duo 發布後的市場反應。
 
+![iPhone 發布前後的 AAPL 股價走勢](../../../圖片/使用案例/quick/RX-USECASE-0046/source-visuals.webp)
+
 ## 研究目標
 
 單次發布後的股價變化，不能告訴我們這是 Apple 產品發布的一般模式，還是這次公告特有的反應。
@@ -89,16 +91,11 @@ publication_mode: faithful-source-preserving
 4. 用供應、margin 及公司特定風險挑戰正面解讀；
 5. 等實際營運數據出來後再更新觀點。
 
-## 來源圖片狀態
-
-經審閱的日文公開頁面有一張已驗證 QUICK 原圖。圖片尚未 byte-synchronize 至下游 repository，因此本頁不加入失效或替代圖片。
-
 ## 本使用案例說明了甚麼
 
 這個例子以反覆企業事件作歷史控制組，把當前反應與 baseline 比較，再用互相競爭的解釋測試差異，最後指出下一輪更新真正需要的營運數據。
 
 ---
-
 
 本內容由 QUICK 提供。
 
