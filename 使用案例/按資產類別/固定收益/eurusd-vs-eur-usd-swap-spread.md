@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 **作者：** Reflexivity Research  
 **主要資產：** 固定收益、Rates、FX、多資產
 
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究問題
 
 比較 EUR/USD 的變動，與 EUR swaps 和 USD swaps 之間 spread 的變動，並檢視外匯變化如何對應相對利率定價的變化。
@@ -37,7 +39,6 @@ publication_mode: faithful-source-preserving
 
 對 rates investor，它把 swap pricing 的變化連到貨幣市場；對 multi-asset investor，它是一個簡潔例子，展示如何在兩種市場表達中檢驗同一個宏觀假設。
 
-[在 Reflexivity 開啟](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

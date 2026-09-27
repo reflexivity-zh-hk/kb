@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原研究及其有日期的觀察。這是一個如何測試投資論點的案例，並非當前宏觀預測。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
 
 ## 起點問題
 
@@ -114,7 +113,6 @@ publication_mode: faithful-source-preserving
 
 這個例子展示如何從需求、就業、商業調查、信貸及利率多個角度壓力測試宏觀論點，同時保留互相矛盾的證據，而不是把所有資料磨平成單一敘事。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)
 
 ---
 

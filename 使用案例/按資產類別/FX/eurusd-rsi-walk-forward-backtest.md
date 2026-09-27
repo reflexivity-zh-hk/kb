@@ -22,8 +22,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原始研究，並納入經審閱版本已確認的解釋橋樑。數字及市場狀況均為原始研究的歷史快照，不是現時投資建議。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
 ## 研究目標
 
@@ -95,7 +94,6 @@ Calibration 最佳設定本身並非最重要；更重要的是結果能否跨�
 
 這個例子保留了可重複的研究過程：問題、測試設計、參數 sweep、樣本外挑戰、限制，以及對失效部分的解讀。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
 
 ---
 

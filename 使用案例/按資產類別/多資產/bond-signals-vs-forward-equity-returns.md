@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留一項實際 Reflexivity 研究的分析邏輯。數字與市場觀察均屬原研究日期的歷史快照，不代表當前市場判斷。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究問題
 
@@ -69,7 +68,6 @@ publication_mode: faithful-source-preserving
 
 這項研究展示如何把跨資產直覺轉成可量度測試，把當前觀察放回歷史背景，再判斷表面關係是否足夠穩健，值得進一步研究。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

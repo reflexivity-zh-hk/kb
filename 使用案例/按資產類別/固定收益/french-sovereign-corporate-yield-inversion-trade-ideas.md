@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原始研究及當時有日期的市場觀察。以下交易構想及水平都是歷史研究輸出，不是現時建議。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
 
 ## 起點
 
@@ -96,7 +95,6 @@ publication_mode: faithful-source-preserving
 
 這個例子展示如何由一個主權／信貸異常，發展成涵蓋 rates、credit、FX、equities、volatility 及 basis markets 的多種研究表達方式，同時保留明確失效條件，而不是停留在市場敘事層面。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

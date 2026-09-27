@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留實際 Reflexivity 研究的結構及限制。Graph 上的連結並不代表直接盈利敏感度；重點是展示如何把宏觀觀點轉成可進一步研究的資產、行業及公司 universe。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究問題
 
@@ -86,7 +85,6 @@ Graph 或 Sankey 的 link width **不是**現金流、盈利敏感度或預期�
 
 這套流程展示如何把宏觀政策觀點拆成傳導渠道、行業及具名公司，再把候選交給更深入的基本面研究。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

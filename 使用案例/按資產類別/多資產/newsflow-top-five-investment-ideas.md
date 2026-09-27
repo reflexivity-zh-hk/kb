@@ -15,6 +15,8 @@ source_text_status: localized_from_en_canonical
 **作者：** Reflexivity Research  
 **主要資產：** 多資產、宏觀、股票、固定收益
 
+**[在 Reflexivity 中開啟這個研究示例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)**
+
 ## 研究問題
 
 閱讀當日新聞，再把大量 newsflow 收斂成五個值得進一步研究的投資想法或主題。
@@ -42,7 +44,6 @@ source_text_status: localized_from_en_canonical
 
 價值在於**優先排序**：不是把每個 headline 視為同等重要，而是形成一個可管理的 hypothesis / theme 清單，供下一步查證。這些是研究候選，不是自動投資結論。
 
-[在 Reflexivity 開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)
 
 ---
 
